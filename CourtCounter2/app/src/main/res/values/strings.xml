@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">"Court Counter "</string>
+    <string name="tim1">"Team Merah"</string>
+    <string name="tim2">"Team Putih"</string>
+    <string name="point">"0"</string>
+    <string name="tambah_tiga">"+3 POINTS"</string>
+    <string name="tambah_dua">"+2 POINTS"</string>
+    <string name="free">"FREE THROW"</string>
+    <string name="reset">"RESET"</string>
+</resources>
